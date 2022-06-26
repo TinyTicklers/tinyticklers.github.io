@@ -1,2 +1,2 @@
-# nfaizee.github.io
+# tinyticklers.github.io
 Tiny Tickler
